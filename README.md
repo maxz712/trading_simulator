@@ -1,1 +1,1 @@
-# trading_simulator
+# Trading Simulator
